@@ -1,1 +1,62 @@
-/* Write your CSS here! */
+/*element*/
+p {
+    margin: 8px;
+    display: block;
+    font-family: arial;
+    text-align: center;
+    padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+/*id*/
+#testP {
+    text-decoration: underline;
+    font-size: 35px;
+   
+}
+/*class*/
+.funParagraph {
+    color:white;
+    background-color: green;
+    text-decoration: underline;
+
+}
+.NorfolkSouthern {
+    height: 1250px;
+    width: 1250px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+/*id slector for class*/
+#mainHeading {
+    color: red;
+    margin: 8px;
+    display: block;
+    font-family: arial;
+    text-align: center;
+    padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  background-color: yellow;
+
+}
+/*id slector for class*/
+#lineDesc {
+    color: orange;
+    font-size: 15px
+
+}
+.line {
+
+    font-size: 25;
+    color: hotpink;
+}
+
+body {
+    background-color: beige;
+ }
+ 
